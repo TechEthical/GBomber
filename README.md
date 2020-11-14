@@ -36,13 +36,11 @@ pkg install git
 
 pkg install python
 
-pkg install python2
-
-pkg install python3
-
 git clone https://github.com/TechBite-BD/GBomber.git
 
 cd GBomber
+
+chmod +x GBomber.py
 
 python GBomber.py
 ```
