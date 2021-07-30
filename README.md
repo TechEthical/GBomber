@@ -19,7 +19,7 @@ GBomber is a Gmail Bombing or Gmail Bomber Python Script that can send Unlimited
 ```
 apt-get update
 
-git clone https://github.com/TechBite-BD/GBomber
+git clone https://github.com/TechEthical/GBomber
 
 cd GBomber
 
@@ -36,7 +36,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/TechBite-BD/GBomber.git
+git clone https://github.com/TechEthical/GBomber.git
 
 cd GBomber
 
